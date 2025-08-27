@@ -1,0 +1,15 @@
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\bin\Debug\net9.0\pruebaparcialApp.exe
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\bin\Debug\net9.0\pruebaparcialApp.deps.json
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\bin\Debug\net9.0\pruebaparcialApp.runtimeconfig.json
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\bin\Debug\net9.0\pruebaparcialApp.dll
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\bin\Debug\net9.0\pruebaparcialApp.pdb
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.AssemblyInfoInputs.cache
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.AssemblyInfo.cs
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.csproj.CoreCompileInputs.cache
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.sourcelink.json
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.dll
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\refint\pruebaparcialApp.dll
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.pdb
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\pruebaparcialApp.genruntimeconfig.cache
+C:\Users\yojan\Desktop\prubaParcial\pruebaparcialApp\obj\Debug\net9.0\ref\pruebaparcialApp.dll
